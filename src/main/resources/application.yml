@@ -2,7 +2,7 @@ spring:
   banner:
     location: "classpath:banner.txt"
   application:
-    name: ayce-be
+    name: cmetal-be
 
   datasource:
     url: ${DATASOURCE_URL}
